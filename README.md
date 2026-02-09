@@ -104,13 +104,8 @@ Rule of thumb:
 On Greed days: allow a mild long bias (higher long/short ratio).
 On Fear days: reduce long exposure and trade defensively.
 
-Why: directional bias shifts with sentiment regimes.
 
 
-### Option 1: Google Colab (Recommended)
-1. Upload the notebook and both CSV files.
-2. Install dependencies (if needed):
-```bash
-pip install pandas numpy matplotlib scikit-learn
+
 
 
