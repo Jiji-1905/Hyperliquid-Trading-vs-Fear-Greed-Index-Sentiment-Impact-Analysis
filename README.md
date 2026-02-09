@@ -104,7 +104,7 @@ Rule of thumb:
 On Greed days: allow a mild long bias (higher long/short ratio).
 On Fear days: reduce long exposure and trade defensively.
 
-
+Google Colab Notebook link : https://colab.research.google.com/drive/1OTkiSj6xKev9tVKqensao2BaIdAK_mNe?usp=sharing
 
 
 
